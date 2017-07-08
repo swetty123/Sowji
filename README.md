@@ -1,0 +1,2 @@
+# Sowji
+java project
